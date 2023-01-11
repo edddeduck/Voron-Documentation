@@ -42,12 +42,14 @@ Experience is just a series of past mistakes we try to not make anymore. Remembe
     4. License is optional too, but best to specify something. I usually do MIT for all my stuff, but your mileage may vary
 
     ![New repository details](images/backup/newRepoDetails.png)
+    
+4. You now need to make a new branch called `master` that the script will upload its changes to. Click on the `main` dropdown below `<code>` in the top left of the page. Type `master` into the text box then click on the button saying `Create branch: master from main`. You should now see a new branch called 'master'.     
 
-4. You now have a new git repository! The next thing to do is make a note of the URL to this repository. Click the green `Code` button, then copy the `HTTPS` url to the clipboard via the button to the right of the URL.
+5. You now have a new git repository! The next thing to do is make a note of the URL to this repository. Click the green `Code` button, then copy the `HTTPS` url to the clipboard via the button to the right of the URL.
 
     ![Url copy](images/backup/CopyUrl.png)
 
-5. Open up your favorite text editor and paste this URL into it for later use
+6. Open up your favorite text editor and paste this URL into it for later use
 
     ![Notepad](images/backup/NotePad.png)
 
